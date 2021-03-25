@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845198795027",
+    "project_id": "push-sample-690f5",
+    "storage_bucket": "push-sample-690f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845198795027:android:523bfe3780e11e16703ae6",
+        "android_client_info": {
+          "package_name": "kr.hdmedi.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845198795027-i3tqcqnceapa9lj5bseu01u6a5invu9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAF876NVr3ogUsj1FstrQc5StLVKbB8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845198795027-i3tqcqnceapa9lj5bseu01u6a5invu9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
